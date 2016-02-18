@@ -1,0 +1,28 @@
+name: denisechambers-beta
+favicon: null
+layout_spectrum: 0.48468060744926333
+typography_spectrum: 0.662860001437366
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.5221105446107686
+  lightness: 0.700578038347885
+  saturation: 0.7851158431731164
+  rhythmicContrast: 0.5190181082580239
+purpose: []
